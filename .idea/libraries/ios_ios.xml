@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ios.ios">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ios/build/libs/ios.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

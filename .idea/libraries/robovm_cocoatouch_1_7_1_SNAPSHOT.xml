@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="robovm-cocoatouch-1.7.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/robovm/robovm-cocoatouch/1.7.1-SNAPSHOT/robovm-cocoatouch-1.7.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

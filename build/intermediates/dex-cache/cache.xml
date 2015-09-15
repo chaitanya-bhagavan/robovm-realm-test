@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/c/Desktop/dev/chaits/robovm-realm-test/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/c/Desktop/dev/chaits/robovm-realm-test/android/build/intermediates/pre-dexed/debug/classes-ab41955c78f5133cf2543bf22e47ec507021f866.jar" />
+    </item>
+    <item
+        jar="/Users/c/Desktop/dev/chaits/robovm-realm-test/core/build/libs/core.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="f7ba15500e341bed227a1e092c28cd10f46d7e4f">
+        <dex dex="/Users/c/Desktop/dev/chaits/robovm-realm-test/android/build/intermediates/pre-dexed/debug/core-40b355f3cdeff9344523b04c9003825ac2bc4325.jar" />
+    </item>
+    <item
+        jar="/Users/c/Desktop/dev/chaits/robovm-realm-test/android/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/classes.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/c/Desktop/dev/chaits/robovm-realm-test/android/build/intermediates/pre-dexed/debug/classes-2920cf6dac579aa6a1dc7d94238d2faee0060768.jar" />
+    </item>
+    <item
+        jar="/Users/c/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/c/Desktop/dev/chaits/robovm-realm-test/android/build/intermediates/pre-dexed/debug/support-annotations-23.0.1-2ff0a20727587ff9881129b1214a3ed29ab5c4d7.jar" />
+    </item>
+    <item
+        jar="/Users/c/Desktop/dev/chaits/robovm-realm-test/android/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/c/Desktop/dev/chaits/robovm-realm-test/android/build/intermediates/pre-dexed/debug/internal_impl-23.0.1-a594e53e8926f1fad9d035b4839cf21b216cba1e.jar" />
+    </item>
+
+</items>

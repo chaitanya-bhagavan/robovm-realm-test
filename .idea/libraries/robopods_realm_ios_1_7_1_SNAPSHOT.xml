@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="robopods-realm-ios-1.7.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/robovm/robopods-realm-ios/1.7.1-SNAPSHOT/robopods-realm-ios-1.7.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/org/robovm/robopods-realm-ios/1.7.1-SNAPSHOT/robopods-realm-ios-1.7.1-SNAPSHOT-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
